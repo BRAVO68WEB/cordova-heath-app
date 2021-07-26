@@ -1,0 +1,17 @@
+{
+  "background_color": "#FFF",
+  "display": "standalone",
+  "name": "HealthFo",
+  "short_name": "HealthFo",
+  "version": "com.loz.healthfo",
+  "description": "An informative health app",
+  "author": "Apache Cordova Team",
+  "icons": [
+    {
+      "src": "logo/logo-and.png",
+      "type": "image/png",
+      "sizes": "undefinedxundefined"
+    }
+  ],
+  "start_url": "index.html"
+}
